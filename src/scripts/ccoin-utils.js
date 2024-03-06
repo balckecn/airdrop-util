@@ -1,4 +1,3 @@
-const Web3 = require('web3');
 const ethutil = require('ethereumjs-util');
 const ethtx = require('ethereumjs-tx');
 const ethwallet = require('ethereumjs-wallet');

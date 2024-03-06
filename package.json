@@ -1,16 +1,21 @@
 {
   "name": "airdrop-util",
   "version": "0.1.0",
-  "private": true,
+  "homepage": "https://github.com/balckecn/airdrop-util",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/balckecn/airdrop-util.git"
+  },
   "dependencies": {
+    "auto-friend": "^1.0.1",
+    "cosmos-util": "^0.1.1",
+    "web3-scan": "^0.1.1",
     "ethereumjs-util": "^5.2.0",
     "ethereumjs-wallet": "^0.6.0",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-scripts": "1.1.4",
-    "semantic-ui-react": "^0.81.1",
-    "tokencontract": "https://github.com/credit-coin/tokencontract.git",
-    "web3": "0.20"
+    "semantic-ui-react": "^0.81.1"
   },
   "scripts": {
     "start": "react-scripts start",
